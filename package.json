@@ -1,0 +1,22 @@
+{
+    "name": "langchain-js-learning",
+    "version": "1.0.0",
+    "description": "Test app to learn the concepts of langchain.js",
+    "main": "app.js",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "langchain": "^0.1.24",
+        "pdf-parse": "^1.1.1"
+    },
+    "scripts": {
+        "start": "node src/app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "node.js",
+        "langchain.js"
+    ],
+    "author": "Adam Brill",
+    "license": "MIT",
+    "type": "module"
+}
